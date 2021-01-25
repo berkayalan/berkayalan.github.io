@@ -8,7 +8,7 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: berkayalann
-# instagram: myinstagram
+instagram: berkayln
 # pinterest: mypinterest
 linkedin: berkayalan
 # youtube: myyoutube
@@ -57,7 +57,7 @@ authors:
     name: Berkay Alan
     bio: Data Science Researcher / Traveller / Full time Learner
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/profile.jpg
     twitter: berkayalann
   
 width: normal
