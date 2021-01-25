@@ -1,6 +1,6 @@
 # main text of home
 name: Berkay Alan
-bio: Data Science Researcher / Traveller / Full time Learning
+bio: Data Science Researcher / Traveller / Full time Learner
 
 # twitter summary info
 description:
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: resume.pdf
 
 url: https://berkayalan.github.io
 # your url: https://USERNAME.github.io
@@ -34,41 +34,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: berkayalann
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: berkayalan
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: berkayalan
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 13472725/berkayln
 # quora: userquora
 # reddit: username
-medium: medium
+medium: berkayalan14
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: berkayalan.mail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  berkayalan:
+    name: Berkay Alan
+    bio: Data Science Researcher / Traveller / Full time Learner
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
+    twitter: berkayalann
+  
 width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
