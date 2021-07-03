@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
 <p>This is Berkay. I am 25 years old, from Istanbul, Turkey. I am working as a Data Analyst at Getir that a Turkish tech startup founded in 2015.</p>
