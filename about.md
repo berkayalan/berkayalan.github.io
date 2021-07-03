@@ -10,26 +10,21 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
+	<li>R</li>
+	<li>Amazon Redshift - Athena</li>
+	<li>Tableau - Microstrategy - Power BI</li>
+	<li>MySQL - MongoDB - PostgreSql</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>HTML</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/berkayalan/treehacks_2021">Treehacks 2021: Reform The Norm</a></li>
+	<li><a href="https://github.com/VisionX-Plant-Pathology-Team/Plant-Pathology-Project">Plant Pathology Project</a></li>
+	
 </ul>
